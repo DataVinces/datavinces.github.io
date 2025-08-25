@@ -73,9 +73,9 @@ a.navbar-item.is-active {
         max-width: 20vmax;
         margin: auto;
 
-        img {
-            border: 0.25rem dotted black;
-        }
+        //img {
+            //border: 0.25rem dotted black;
+        //}
     }
 
     a {
@@ -94,7 +94,7 @@ a.navbar-item.is-active {
     svg {
         transition: all 0.15s ease-in-out;
         margin: auto 0.75vmax;
-
+        https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
         &:hover {
             transform: scale(1.10);
             filter: opacity(0.75);
