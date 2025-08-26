@@ -29,3 +29,10 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", :install_if => Gem.win_platform?
+
+gem "csv"
+gem "base64"
+gem "ostruct"
+gem "github-pages"
+gem "bigdecimal", "~> 3.2"
+gem "erb"
